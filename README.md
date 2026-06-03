@@ -244,6 +244,7 @@ Streamlit reduces dashboard development from ~3 days to ~3 hours, allowing focus
 ## 📚 References
 
 - Sharafaldin, I., Lashkari, A. H., & Ghorbani, A. A. (2018). *Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization.* ICISSP.
+- Panigrahi, R., & Borah, S. (2018). *A Detailed Analysis of CICIDS2017 Dataset for Designing Intrusion Detection Systems. International Journal of Engineering & Technology, 7(3.24), 479–482.*
 - [CICFlowMeter](https://github.com/iscx/CICFlowMeter) — feature extraction tool used to generate the dataset
 - [Scapy documentation](https://scapy.readthedocs.io/)
 - [Streamlit documentation](https://docs.streamlit.io/)
